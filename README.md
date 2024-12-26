@@ -54,14 +54,14 @@ The dataset includes financial data, structured with the following key columns:
 ## Methodology
 1. Data Cleaning:
 
-  - Removed duplicates and irrelevant columns.
-  - Handled missing values in revenue and expense fields.
+     - Removed duplicates and irrelevant columns.
+     - Handled missing values in revenue and expense fields.
 2. Exploratory Data Analysis (EDA):
 
-  - Analyzed revenue trends, expense breakdowns, and profit margins.
+     - Analyzed revenue trends, expense breakdowns, and profit margins.
 3. Visualization:
 
-  - Built an Income Statement Dashboard in Power BI to provide actionable insights.
+     - Built an Income Statement Dashboard in Power BI to provide actionable insights.
 
 ---
 
