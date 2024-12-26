@@ -1,29 +1,23 @@
-## Income Statement Dashboard Analysis
-# Overview
+# Income Statement Dashboard Analysis
+## Overview
 This project focuses on analyzing financial performance through an interactive Income Statement Dashboard. The dataset includes detailed information on revenues, expenses, and net profit trends, providing insights into the financial health and operational efficiency of the organization.
 
-Problem Statement
+---
+
+## Problem Statement
+
 Understanding an organization’s financial performance is essential for effective decision-making and strategic planning. This project aims to:
 
-Analyze revenue and expense trends to identify areas of profitability and cost optimization.
-Highlight financial metrics like net profit margin, gross profit, and operating expenses.
-Provide a comprehensive visual representation of the Income Statement for stakeholders.
-Table of Contents
-Overview
-Problem Statement
-Dataset Description
-Key Insights
-Tools and Technologies
-Methodology
-Visualizations
-Challenges and Limitations
-Future Scope
-Author
-License
-Dataset Description
+- Analyze revenue and expense trends to identify areas of profitability and cost optimization.
+- Highlight financial metrics like net profit margin, gross profit, and operating expenses.
+- Provide a comprehensive visual representation of the Income Statement for stakeholders.
+
+---
+
+# Dataset Description
 The dataset includes financial data, structured with the following key columns:
 
-Date: Reporting period (monthly, quarterly, yearly).
+- Date: Reporting period (monthly, quarterly, yearly).
 Revenue: Total income generated during the period.
 Cost of Goods Sold (COGS): Direct costs related to the production of goods or services.
 Gross Profit: Revenue minus COGS.
