@@ -93,8 +93,3 @@ Key visualizations in the Power BI report include:
 *Data Analyst*  
 LinkedIn: https://linkedin.com/in/rohit-DA
 Email: rohitkanojiya127@gmail.com
-
----
-
-## License
-This project is licensed under the MIT License.
