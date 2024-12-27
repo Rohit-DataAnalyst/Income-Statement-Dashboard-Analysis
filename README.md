@@ -13,6 +13,8 @@ This project focuses on analyzing financial performance through an interactive I
 
 ![Screenshot 2024-12-27 110405](https://github.com/user-attachments/assets/64085de3-2b94-4c0d-8a01-517fd757720e)
 
+---
+
 ## Problem Statement
 
 Understanding an organization’s financial performance is essential for effective decision-making and strategic planning. This project aims to:
