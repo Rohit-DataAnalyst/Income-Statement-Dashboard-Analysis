@@ -3,6 +3,8 @@
 This project focuses on analyzing financial performance through an interactive Income Statement Dashboard. The dataset includes detailed information on revenues, expenses, and net profit trends, providing insights into the financial health and operational efficiency of the organization.
 
 ---
+![Screenshot 2024-12-27 110405](https://github.com/user-attachments/assets/64085de3-2b94-4c0d-8a01-517fd757720e)
+
 <div align="center">
   <p>
 
