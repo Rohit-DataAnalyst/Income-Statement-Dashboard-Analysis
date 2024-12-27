@@ -3,15 +3,15 @@
 This project focuses on analyzing financial performance through an interactive Income Statement Dashboard. The dataset includes detailed information on revenues, expenses, and net profit trends, providing insights into the financial health and operational efficiency of the organization.
 
 ---
-![Screenshot 2024-12-27 110405](https://github.com/user-attachments/assets/64085de3-2b94-4c0d-8a01-517fd757720e)
 
 <div align="center">
   <p>
 
-## [Checkout the Power BI Dashboard Here]([https://app.powerbi.com/view?r=eyJrIjoiZWYwNjUxMmEtYTM5NS00ZmI5LTk0OGItM2QyZDE5MmM3MzlhIiwidCI6IjU1MTFiODM3LWE1Y2EtNDY3Yy1iZDQzLWZkNDFjZWJiMGM1ZCJ9&pageName=da24854d2e3009a40508](https://app.powerbi.com/view?r=eyJrIjoiOTc2NzJiZDEtMWQwMy00M2Q1LWI2YjQtMGNjM2EyOWE2YWI5IiwidCI6IjU1MTFiODM3LWE1Y2EtNDY3Yy1iZDQzLWZkNDFjZWJiMGM1ZCJ9))
+## [Checkout the Power BI Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiOTc2NzJiZDEtMWQwMy00M2Q1LWI2YjQtMGNjM2EyOWE2YWI5IiwidCI6IjU1MTFiODM3LWE1Y2EtNDY3Yy1iZDQzLWZkNDFjZWJiMGM1ZCJ9)
 </p>
 </div>
 
+![Screenshot 2024-12-27 110405](https://github.com/user-attachments/assets/64085de3-2b94-4c0d-8a01-517fd757720e)
 
 ## Problem Statement
 
